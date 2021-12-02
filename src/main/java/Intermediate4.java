@@ -19,18 +19,15 @@ public class Intermediate4 {
         }
     }
 
-    /*public boolean wordList (){
-        System.out.println("Bitte geben Sie ein Wort ein:");
-        Scanner scan = new Scanner(System.in);
-        this.list.add(scan.next());
-        for (int i=0; i<=this.list.size(); i++){
-            System.out.println(this.list.get(i));
-        }
-        return true;
-    }
-
-    public
-      while(true){wordList();}*/
-
-
+//    public boolean wordList (){
+//        System.out.println("Bitte geben Sie ein Wort ein:");
+//        Scanner scan = new Scanner(System.in);
+//        this.list.add(scan.next());
+//        for (int i=0; i<=this.list.size(); i++){
+//            System.out.println(this.list.get(i));
+//        }
+//        return true;
+//    }
+//    public
+//      while(true){wordList();}
 }
