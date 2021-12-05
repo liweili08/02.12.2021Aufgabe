@@ -7,8 +7,8 @@ public class Intermediate3 {
             if (i % 5 == 0) {
                 System.out.print("$");
             }
-            System.out.print(i);
-            System.out.println();
+            System.out.println(i);
+            //System.out.println();
         }
     }
 }
